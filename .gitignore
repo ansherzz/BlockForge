@@ -1,0 +1,18 @@
+# Maven build output
+target/
+
+# Runtime-generated chain exports
+data/
+
+# IDE and tooling
+.claude/
+.idea/
+*.iml
+.vscode/
+
+# Compiled classes
+*.class
+
+# OS
+.DS_Store
+Thumbs.db
